@@ -8,7 +8,6 @@ import Authorization from './components/Authorization/Authorization'
 import Loading from 'src/components/Loading/Loading'
 
 function App() {
-  console.log(111)
   return (
     <div className="App">
       <Routes />
